@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f17fdff6-0e21-4c3a-bb06-4fd9681664f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ManagedAksCluster.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ManagedAksCluster.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagedEksCluster.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ManagedEksCluster.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagedGkeCluster.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ManagedGkeCluster.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagedMultiCloudCluster.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ManagedMultiCloudCluster.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pulumi.dev.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Pulumi.dev.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.6/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="7149fae7-9664-44f2-9949-4daab99748b6" />
+  <component name="ProjectId" id="1hYudng83B8qleVtwGETtk4iXN8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f17fdff6-0e21-4c3a-bb06-4fd9681664f2" name="Default Changelist" comment="" />
+      <created>1600200436741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600200436741</updated>
+      <workItem from="1600200437794" duration="5550000" />
+      <workItem from="1600852869618" duration="6387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1238" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1600853576062">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1238" y="252" width="670" height="676" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1792.1033@-1920.23.1920.1057" timestamp="1600853576062" />
+  </component>
+</project>
